@@ -6,7 +6,7 @@
       "48": "images/icon48.png"
    },
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApGjK/hK2MFG4YraasZ2H5YNu6MdotBCVkDmevMjtlHHXHWU797csYDKzllJ6ETz1/ZNU31krn7GOYODI4o6ud7hWE/19dMqJVSNQCBA0XztkcVOJW9zWmXdwPal55y9LqxvPnGKyEWHUuNUJsJnibAVMyZqecUeyw0f2C/hU2L+Nzx06itf8pEq7htJV8YT6/3jbdVkNPYNfC7e5qMfVFmz5UoIczqqjeDPtCC6Hyp37rP/CDYAyR8aUdKt3bsjPvALa3v7L2MLyVDd4zcMj/eZR74mTR0KyskL9N+2kaduu2GGTTZfBYHQc8aWIwBVIoqoVZV1+VLLl3JgJsBKbAwIDAQAB",
-   "manifest_version": 2,
+   "manifest_version": 3,
    "name": "Yamanote Line Theme",
    "theme": {
       "colors": {
@@ -35,5 +35,5 @@
       }
    },
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.0.5"
+   "version": "0.1.0"
 }
