@@ -1,4 +1,5 @@
 # Chrome Web Store Submission Notes
+notes/details necessary for submission via the [Chrome Web Store Developer Dashboard](https://chrome.google.com/webstore/devconsole/)
 
 ## Title From Package
 Yamanote Line Theme
