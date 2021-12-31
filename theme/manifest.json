@@ -1,0 +1,39 @@
+{
+   "description": "Chrome Theme celebrating Tokyo's famed Yamanote Line",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApGjK/hK2MFG4YraasZ2H5YNu6MdotBCVkDmevMjtlHHXHWU797csYDKzllJ6ETz1/ZNU31krn7GOYODI4o6ud7hWE/19dMqJVSNQCBA0XztkcVOJW9zWmXdwPal55y9LqxvPnGKyEWHUuNUJsJnibAVMyZqecUeyw0f2C/hU2L+Nzx06itf8pEq7htJV8YT6/3jbdVkNPYNfC7e5qMfVFmz5UoIczqqjeDPtCC6Hyp37rP/CDYAyR8aUdKt3bsjPvALa3v7L2MLyVDd4zcMj/eZR74mTR0KyskL9N+2kaduu2GGTTZfBYHQc8aWIwBVIoqoVZV1+VLLl3JgJsBKbAwIDAQAB",
+   "manifest_version": 2,
+   "name": "Yamanote Line Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 23, 22, 22 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 204, 204, 204 ],
+         "ntp_background": [ 18, 18, 18 ],
+         "ntp_link": [ 6, 55, 116 ],
+         "ntp_text": [ 50, 50, 50 ],
+         "tab_background_text": [ 23, 22, 22 ],
+         "tab_text": [ 23, 22, 22 ],
+         "toolbar": [ 104, 93, 82 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0.07, 0.84, 0.52 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.5"
+}
